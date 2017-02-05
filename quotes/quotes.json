@@ -1,0 +1,364 @@
+[
+
+
+ 	{
+ 		"url": "/quotes/Eco1.html",
+ 		"quote": "An economy hampered by restrictive tax rates will never produce enough jobs or enough profits.",
+ 		"author": "John F. Kennedy",
+ 		"period": "1917-1963",
+ 		"theme": "eco"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Eco3.html",
+ 		"quote": "I, however, place economy among the first and most important of virtues, and public debt as the greatest of dangers to be feared.",
+ 		"author": "Thomas Jefferson",
+ 		"period": "1743-1826",
+ 		"theme": "eco"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Eco2.html",
+ 		"quote": "The first sign of tyranny is government&rsquo;s complicity in privatizing the commons for private gain.",
+ 		"author": "Robert F. Kennedy",
+ 		"period": "1925-1968",
+ 		"theme": "eco"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Eco4.html",
+ 		"quote": "Any fourth grade history student knows socialism has failed in every country, at every time in history. President Obama and his Democrats are either idiots or deliberately trying to destroy their own economy.",
+ 		"author": "Vladimir Vladimirovich Poetin",
+ 		"period": "1952-heden",
+ 		"theme": "eco"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Eco5.html",
+ 		"quote": "There are two places only where socialism will work; in heaven where it is not needed and in hell where they already have it.",
+ 		"author": "Winston  Leonard Spencer&oline;Churchill",
+ 		"period": "1874-1965",
+ 		"theme": "eco"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Exp1.html",
+ 		"quote": "Death is not the opposite of life, but a part of it.",
+ 		"author": "Haruki Murakami",
+ 		"period": "1949-heden",
+ 		"theme": "exp"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Exp2.html",
+ 		"quote": "People fear death even more than pain. Life hurts a lot more than death.",
+ 		"author": "James Douglas &quot;Jim&quot; Morrison",
+ 		"period": "1943-1971",
+ 		"theme": "exp"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Exp3.html",
+ 		"quote": "Death is the solution to all problems. No man &oline; no problem.",
+ 		"author": "Joseph Stalin",
+ 		"period": "1878-1953",
+ 		"theme": "exp"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Exp4.html",
+ 		"quote": "No one is actually dead until the ripples they cause in the world die away.",
+ 		"author": "Terry Pratchett",
+ 		"period": "1948-2015",
+ 		"theme": "exp"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Exp5.html",
+ 		"quote": "Death is not the greatest loss in life. The greatest loss is what dies inside us while we live.",
+ 		"author": "Norman Cousins",
+ 		"period": "1915-1990",
+ 		"theme": "exp"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Fil1.html",
+ 		"quote": "Wise men speak because they have something to say&#59; fools because they have to say something.",
+ 		"author": "Plato",
+ 		"period": "ca. 427 v.Chr.-348 v.Chr.",
+ 		"theme": "fil"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Fil2.html",
+ 		"quote": "Every deep thinker is more afraid of being understood than of being misunderstood.",
+ 		"author": "Friedrich Wilhelm Nietzsche",
+ 		"period": "1844-1900",
+ 		"theme": "fil"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Fil3.html",
+ 		"quote": "There is nothing either good or bad, but thinking makes it so.",
+ 		"author": "William Shakespeare",
+ 		"period": "1564-1616",
+ 		"theme": "fil"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Fil4.html",
+ 		"quote": "The only true wisdom is in knowing you know nothing.",
+ 		"author": "Socrates",
+ 		"period": "469 v.Chr.-399 v.Chr.",
+ 		"theme": "fil"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Fil5.html",
+ 		"quote": "Strong minds discuss ideas, average minds discuss events, weak minds discuss people.",
+ 		"author": "Socrates",
+ 		"period": "469 v.Chr.-399 v.Chr.",
+ 		"theme": "fil"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Int1.html",
+ 		"quote": "Quiet people have the loudest minds.",
+ 		"author": "Stephen William Hawking",
+ 		"period": "1942-heden",
+ 		"theme": "int"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Int2.html",
+ 		"quote": "Some people wonder why they rarely see me out. I wonder what&rsquo;s so bad at their house they always find a reason to be out.",
+ 		"author": "Instagram",
+ 		"period": "2010-heden",
+ 		"theme": "int"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Int3.html",
+ 		"quote": "The quieter you become, the more you can hear.",
+ 		"author": "Richard Alpert",
+ 		"period": "1931-heden",
+ 		"theme": "int"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Int4.html",
+ 		"quote": "I&rsquo;m self&oline;sufficient. I spend a lot of time on my own and I shut off quite easily. When I communicate, I communicate 900 per cent&#59; then I shut off.",
+ 		"author": "Björk Guðmundsdóttir",
+ 		"period": "1965-heden",
+ 		"theme": "int"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Int5.html",
+ 		"quote": "An introvert&rsquo;s desire for solitude is more than just a preference. It is crucial to our health and happiness.",
+ 		"author": "Michaela Chung",
+ 		"period": "1984-heden",
+ 		"theme": "int"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Mot1.html",
+ 		"quote": "I am not a product of my circumstances. I am a product of my decisions.",
+ 		"author": "Stephen Covey",
+ 		"period": "1932-2012",
+ 		"theme": "mot"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Mot2.html",
+ 		"quote": "A journey of a thousand miles begins with a single step.",
+ 		"author": "Lao Zi",
+ 		"period": "604 v.Chr.-531 v.Chr.",
+ 		"theme": "mot"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Mot3.html",
+ 		"quote": "Better to live a day as a lion than 100 years as a sheep.",
+ 		"author": "Benito Mussolini",
+ 		"period": "1883-1945",
+ 		"theme": "mot"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Mot4.html",
+ 		"quote": "If there is no enemy within, the enemy outside can do us no harm.",
+ 		"author": "Leslie Calvin &quot;Les&quot; Brown",
+ 		"period": "1945-heden",
+ 		"theme": "mot"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Mot5.html",
+ 		"quote": "I survived because the fire inside me burned brighter than the fire around me.",
+ 		"author": "Joshua Graham",
+ 		"period": "2010-heden",
+ 		"theme": "mot"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Pol1.html",
+ 		"quote": "Political language is designed to make lies sound truthful and murder respectable.",
+ 		"author": "Eric Arthur &quot;George Orwell&quot; Blair",
+ 		"period": "1903-1950",
+ 		"theme": "pol"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Pol2.html",
+ 		"quote": "Government&rsquo;s duty is to protect the people, not run their lives.",
+ 		"author": "Ronald Wilson Reagan",
+ 		"period": "1911-2004",
+ 		"theme": "pol"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Pol3.html",
+ 		"quote": "He knows nothing&#59; and he thinks he knows everything. That points clearly to a political career.",
+ 		"author": "George Bernard Shaw",
+ 		"period": "1856-1950",
+ 		"theme": "pol"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Pol4.html",
+ 		"quote": "Politics is such a torment that I advise everyone I love not to mix with it.",
+ 		"author": "Thomas Jefferson",
+ 		"period": "1743-1826",
+ 		"theme": "pol"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Pol5.html",
+ 		"quote": "Politics, Poly &quot;many&quot; &#43; tics &quot;blood&#45;sucking parasites&quot;.",
+ 		"author": "Larry Charles Hardiman",
+ 		"period": "1957-heden",
+ 		"theme": "pol"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Toe1.html",
+ 		"quote": "Your future is created by what you do today, not tomorrow.",
+ 		"author": "Robert T. Kiyosaki",
+ 		"period": "1947-heden",
+ 		"theme": "toe"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Toe2.html",
+ 		"quote": "The future belongs to those who believe in the beauty of their dreams.",
+ 		"author": "Anna Eleanor Roosevelt",
+ 		"period": "1884-1962",
+ 		"theme": "toe"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Toe3.html",
+ 		"quote": "The best way to predict your future is to create it.",
+ 		"author": "Abraham Lincoln",
+ 		"period": "1809-1865",
+ 		"theme": "toe"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Toe4.html",
+ 		"quote": "You can&rsquo;t build a long term future on short term thinking.",
+ 		"author": "William &quot;Billy&quot; Cox",
+ 		"period": "1941-heden",
+ 		"theme": "toe"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Toe5.html",
+ 		"quote": "Don&rsquo;t let fear decide your future.",
+ 		"author": "Shalane Flanagan",
+ 		"period": "1981-heden",
+ 		"theme": "toe"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Vre1.html",
+ 		"quote": "Peace cannot be kept by force, it can only be achieved by understanding.",
+ 		"author": "Albert Einstein",
+ 		"period": "1879-1955",
+ 		"theme": "vre"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Vre2.html",
+ 		"quote": "Forgive others not because they deserve forgiveness, but because you deserve peace.",
+ 		"author": "Jonathan Lockwood Huie",
+ 		"period": "1948-heden",
+ 		"theme": "vre"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Vre3.html",
+ 		"quote": "When the power of love overcomes the love of power the world will know peace.",
+ 		"author": "Jimi Hendrix",
+ 		"period": "1942-1970",
+ 		"theme": "vre"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Vre4.html",
+ 		"quote": "Peace is not merely a distant goal that we seek but a means by which we arrive at that goal.",
+ 		"author": "Martin Luther King",
+ 		"period": "1929-1968",
+ 		"theme": "vre"
+ 	}
+ 	,
+
+ 	{
+ 		"url": "/quotes/Vre5.html",
+ 		"quote": "If you want peace, you won&rsquo;t get it with violence.",
+ 		"author": "John Winston Ono Lennon",
+ 		"period": "1940-1980",
+ 		"theme": "vre"
+ 	}
+ 	
+
+]

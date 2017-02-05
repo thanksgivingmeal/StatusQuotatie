@@ -1,0 +1,31 @@
+---
+layout: 'page'
+---
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				Quote
+			</th>
+			<th>
+				Bron
+			</th>
+			<th>
+				Periode
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<%- @document.quote %>
+			</td>
+			<td>
+				<%- @document.author %>
+			</td>
+			<td>
+				<%- @document.period %>
+			</td>
+		</tr>
+	</tbody>
+</table>

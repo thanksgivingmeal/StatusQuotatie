@@ -1,0 +1,57 @@
+---
+layout: 'page'
+title: 'Lijst van alle quotes'
+---
+
+# Lijst van alle quotes
+
+ff hernoemd, we hebben coffeescript functionaliteit nodig
+
+Hieronder starten we de lijst:
+<ul>
+	<% for quote in @getCollection('quotes').toJSON() : %><!-- (1) -->
+		<!-- lijst item -->
+		<ul>
+			<a href="<%= quote.url %>">
+				<!-- Let goed op het verschil tussen dash en equal, zou je moeten weten :^) -->
+				<%- quote.quote %><!-- eerste maal quote werd gedefinieerd in loop (1), tweede maal wordt in elk quote bestand gedefinieerd (2) -->
+			</a>
+		</ul>
+	<% end %>
+</ul>
+
+Voorbeeld met tabel
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>
+				Quote
+			</th>
+			<th>
+				Author
+			</th>
+			<th>
+				Period
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<% for quote in @getCollection('quotes').toJSON() : %>
+			<tr>
+				<td>
+					<!-- zorg voor link, ik weet eig niet of je die rond <tr> kan wrappen -->
+					<a href="<%= quote.url %>">
+						<%- quote.quote %>
+					</a>
+				</td>
+				<td>
+					<%- quote.author %>
+				</td>
+				<td>
+					<%- quote.period %>
+				</td>
+			</tr>
+		<% end %>	
+	</tbody>
+</table>

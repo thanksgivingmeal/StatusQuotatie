@@ -1,0 +1,13 @@
+[
+<% numberOfQuotes = @getCollection('quotes').toJSON().length %>
+<% for quote, index in @getCollection('quotes').toJSON() : %>
+ 	{
+ 		"url": "<%- quote.url %>",
+ 		"quote": "<%- quote.quote %>",
+ 		"author": "<%- quote.author %>",
+ 		"period": "<%- quote.period %>",
+ 		"theme": "<%- quote.basename.substr( 0, 3 ).toLowerCase() %>"
+ 	}
+ 	<%- if index < numberOfQuotes - 1 then ',' %>
+<% end %>
+]
